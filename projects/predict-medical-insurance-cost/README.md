@@ -1,6 +1,6 @@
-# Daily Forecast for Restaurant
+# Predict Medical Insurance Cost
 
-The project demonstrates that a machine learning algorithm like XGBoost can make accurate and reliable daily demand forecasts for restaurants. Because it is capable of managing multi-source data integration, it is highly flexible and realistic for real application in operation
+The insurance companies struggle with the precise estimation of individual policyholder costs. Estimation of costs on the lower side results in financial losses, and estimation of costs on the higher side would mean unfair premium rates. This project uses machine learning models for predicting medical insurance charges given demographic and health related variables. Preciseestimation would assist in accurate policy pricing, risk identification, and fairness.
 
 ## Installation
 
